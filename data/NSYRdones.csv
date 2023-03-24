@@ -1,0 +1,250 @@
+ids,gender,age,household,children,preltrad,ethnicity,paredu,income,parsedu,raised,religup
+220,0. Male,13. 13,1. Married,2. 2,3. Black Protestant,Black,Less than High School,"$30,000-$40,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptist
+1662,1. Female,15. 15,1. Married,1. 1,8. Other religion,Asian,Bachelors,"More than $100,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Hindu
+2086,0. Male,17. 17,1. Married,0. 0,1. Conservative Protestant,White,Less than High School,"$30,000-$40,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:prebertyrain
+2103,0. Male,13. 13,4. Divorced,0. 0,4. Catholic,Black,Less than High School,"$10,000-$20,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+2187,0. Male,17. 17,4. Divorced,1. 1,1. Conservative Protestant,Asian,Graduate Degree,"$50,000-$60,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christain
+2215,1. Female,13. 13,2. Living with unmarried partner,3. 3,1. Conservative Protestant,White,Graduate Degree,"$60,000-$70,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CHRISTIAN
+2441,1. Female,13. 13,1. Married,1. 1,5. Jewish,White,Graduate Degree,"More than $100,000",Beyond Bachelors but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Jewish
+2449,0. Male,16. 16,1. Married,0. 0,4. Catholic,Other,Graduate Degree,"More than $100,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+2530,0. Male,16. 16,1. Married,1. 1,2. Mainline Protestant,White,Graduate Degree,"More than $100,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+2541,1. Female,13. 13,5. Separated,2. 2,7. Unaffiliated,White,Some College but no degree,"$40,000-$50,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+2571,0. Male,16. 16,1. Married,0. 0,2. Mainline Protestant,White,Graduate Degree,"$70,000-$80,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christianity
+2669,0. Male,17. 17,1. Married,0. 0,1. Conservative Protestant,White,Some College but no degree,"$50,000-$60,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+2772,1. Female,13. 13,1. Married,2. 2,2. Mainline Protestant,White,Some College but no degree,"$70,000-$80,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CHRISTIAN
+2855,1. Female,16. 16,1. Married,2. 2,4. Catholic,White,Some College but no degree,"$40,000-$50,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+2866,1. Female,14. 14,2. Living with unmarried partner,1. 1,1. Conservative Protestant,Hispanic,Less than High School,"$20,000-$30,000",Less than High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:pentecostal
+2878,1. Female,15. 15,1. Married,0. 0,4. Catholic,Other,Some College but no degree,"$40,000-$50,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CATHOLIC
+2968,1. Female,16. 16,4. Divorced,1. 1,3. Black Protestant,Black,Bachelors,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CHRISTIAN
+3035,0. Male,14. 14,1. Married,4. 4,8. Other religion,Black,High School,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:none
+3138,0. Male,16. 16,4. Divorced,0. 0,7. Unaffiliated,White,Graduate Degree,"$70,000-$80,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+3204,0. Male,15. 15,1. Married,0. 0,7. Unaffiliated,Other,High School,"$40,000-$50,000",High School,RAISED RELIGIOUS, 
+3225,1. Female,17. 17,1. Married,0. 0,8. Other religion,White,Bachelors,"$90,000-$100,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+3257,0. Male,16. 16,4. Divorced,1. 1,2. Mainline Protestant,White,Bachelors,"$50,000-$60,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CHRISTIAN
+3289,1. Female,14. 14,6. Never Married,0. 0,2. Mainline Protestant,White,Bachelors,"$10,000-$20,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:presbyterian
+3317,1. Female,15. 15,4. Divorced,1. 1,1. Conservative Protestant,White,Less than High School,"Less than $10,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Baptist
+3364,0. Male,16. 16,6. Never Married,2. 2,4. Catholic,Hispanic,Less than High School,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:many
+3389,0. Male,17. 17,1. Married,0. 0,4. Catholic,White,High School,"$40,000-$50,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christion
+3438,1. Female,17. 17,2. Living with unmarried partner,0. 0,1. Conservative Protestant,Black,Less than High School,"$20,000-$30,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+3442,1. Female,17. 17,1. Married,1. 1,1. Conservative Protestant,White,Less than High School,"$40,000-$50,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:southern baptist
+3578,0. Male,17. 17,4. Divorced,2. 2,7. Unaffiliated,White,High School,"More than $100,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+3599,0. Male,14. 14,6. Never Married,0. 0,3. Black Protestant,Black,Some College but no degree,"$10,000-$20,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptist
+3633,0. Male,16. 16,1. Married,3. 3,7. Unaffiliated,White,Some College but no degree,"Less than $10,000",Less than High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+3673,0. Male,17. 17,1. Married,0. 0,4. Catholic,White,Graduate Degree,"More than $100,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+3698,0. Male,17. 17,4. Divorced,0. 0,7. Unaffiliated,White,High School,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CATHOLIC
+3699,1. Female,16. 16,1. Married,1. 1,2. Mainline Protestant,White,Some College but no degree,"$40,000-$50,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:I think it's Episcopalian
+3786,0. Male,13. 13,4. Divorced,0. 0,1. Conservative Protestant,,Less than High School,"Less than $10,000",,RAISED RELIGIOUS, 
+3788,0. Male,16. 16,1. Married,1. 1,7. Unaffiliated,White,Vo-Tech/Associates Diploma/Degree,"$50,000-$60,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:methodist
+3795,1. Female,17. 17,1. Married,0. 0,6. Mormon/LDS,White,Less than High School,"$10,000-$20,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Mormonism
+3802,0. Male,17. 17,1. Married,2. 2,2. Mainline Protestant,White,Vo-Tech/Associates Diploma/Degree,"$70,000-$80,000",High School,RAISED RELIGIOUS, 
+3833,1. Female,13. 13,1. Married,0. 0,2. Mainline Protestant,White,Some College but no degree,"$50,000-$60,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Methodist
+3948,0. Male,17. 17,4. Divorced,0. 0,1. Conservative Protestant,White,Less than High School,"$50,000-$60,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic and baptist
+3953,0. Male,17. 17,1. Married,1. 1,4. Catholic,White,High School,"$20,000-$30,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+3976,0. Male,15. 15,1. Married,0. 0,7. Unaffiliated,White,Bachelors,"$80,000-$90,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:unitarian
+4021,1. Female,17. 17,1. Married,2. 2,3. Black Protestant,Black,Less than High School,"$40,000-$50,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:holiness
+4102,1. Female,15. 15,6. Never Married,1. 1,3. Black Protestant,Black,Vo-Tech/Associates Diploma/Degree,"Less than $10,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+4146,0. Male,13. 13,1. Married,1. 1,5. Jewish,White,Beyond Bachelors but no degree,"More than $100,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:JUDAIS
+4158,1. Female,15. 15,3. Widowed,0. 0,3. Black Protestant,Black,Less than High School,"Less than $10,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+4159,0. Male,16. 16,1. Married,0. 0,1. Conservative Protestant,White,Graduate Degree,"More than $100,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+4277,1. Female,16. 16,1. Married,2. 2,4. Catholic,Other,Some College but no degree,"$70,000-$80,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+4305,1. Female,17. 17,3. Widowed,2. 2,3. Black Protestant,Black,Vo-Tech/Associates Diploma/Degree,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptist
+4312,0. Male,13. 13,4. Divorced,0. 0,7. Unaffiliated,White,Some College but no degree,"$60,000-$70,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+4317,1. Female,17. 17,4. Divorced,0. 0,2. Mainline Protestant,White,Bachelors,"$70,000-$80,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+4349,0. Male,16. 16,1. Married,1. 1,4. Catholic,White,Vo-Tech/Associates Diploma/Degree,"$60,000-$70,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+4357,1. Female,17. 17,1. Married,1. 1,3. Black Protestant,Black,Less than High School,"Less than $10,000",Less than High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Baptist
+4397,0. Male,17. 17,4. Divorced,0. 0,7. Unaffiliated,White,Vo-Tech/Associates Diploma/Degree,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+4417,0. Male,15. 15,1. Married,0. 0,2. Mainline Protestant,White,Bachelors,"$50,000-$60,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+4471,1. Female,17. 17,1. Married,0. 0,2. Mainline Protestant,Hispanic,High School,"Less than $10,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+4489,0. Male,16. 16,2. Living with unmarried partner,0. 0,1. Conservative Protestant,Hispanic,Bachelors,"More than $100,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CHRISTIAN
+4495,0. Male,16. 16,1. Married,0. 0,2. Mainline Protestant,White,High School,"$50,000-$60,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:cathloic
+4544,1. Female,14. 14,1. Married,1. 1,1. Conservative Protestant,White,Vo-Tech/Associates Diploma/Degree,"$30,000-$40,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:united pentacostal
+4573,1. Female,16. 16,4. Divorced,0. 0,4. Catholic,White,Vo-Tech/Associates Diploma/Degree,"$40,000-$50,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CHRISTIAN
+4576,0. Male,15. 15,1. Married,1. 1,5. Jewish,White,Vo-Tech/Associates Diploma/Degree,"$90,000-$100,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Jewish
+4699,0. Male,15. 15,4. Divorced,1. 1,8. Other religion,Asian,Vo-Tech/Associates Diploma/Degree,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian and Mormon
+4726,1. Female,15. 15,4. Divorced,1. 1,7. Unaffiliated,White,High School,"$50,000-$60,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+4759,0. Male,14. 14,2. Living with unmarried partner,0. 0,7. Unaffiliated,White,Bachelors,"$50,000-$60,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christianity
+4786,0. Male,14. 14,1. Married,1. 1,9. Indeterminate,White,Bachelors,"$60,000-$70,000",High School,RAISED RELIGIOUS, 
+4808,0. Male,16. 16,4. Divorced,0. 0,1. Conservative Protestant,White,Bachelors,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+4857,1. Female,17. 17,6. Never Married,2. 2,3. Black Protestant,Black,High School,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:babtist
+4932,1. Female,15. 15,1. Married,2. 2,9. Indeterminate,White,Some College but no degree,"$10,000-$20,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+5056,1. Female,13. 13,4. Divorced,0. 0,5. Jewish,White,Vo-Tech/Associates Diploma/Degree,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Jewish
+5111,0. Male,13. 13,1. Married,1. 1,3. Black Protestant,Black,Some College but no degree,"$30,000-$40,000",Some College but no degree,RAISED RELIGIOUS, 
+5117,1. Female,14. 14,4. Divorced,1. 1,1. Conservative Protestant,White,Beyond Bachelors but no degree,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:BAPTIST
+5194,0. Male,15. 15,1. Married,0. 0,4. Catholic,White,Some College but no degree,"$70,000-$80,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+5195,0. Male,14. 14,6. Never Married,1. 1,3. Black Protestant,Black,Some College but no degree,"$40,000-$50,000",,RAISED RELIGIOUS, 
+5237,1. Female,17. 17,1. Married,0. 0,2. Mainline Protestant,White,Bachelors,"$20,000-$30,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christadelphian
+5252,1. Female,17. 17,5. Separated,1. 1,4. Catholic,Hispanic,High School,"$60,000-$70,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+5370,0. Male,16. 16,2. Living with unmarried partner,0. 0,4. Catholic,White,Some College but no degree,"$40,000-$50,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+5398,0. Male,15. 15,4. Divorced,0. 0,8. Other religion,Other,Some College but no degree,"More than $100,000",,RAISED RELIGIOUS,"<1:[RECORD VERBATIM]>:Catholic, christian and Buddhist"
+5404,0. Male,16. 16,4. Divorced,0. 0,4. Catholic,Hispanic,High School,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+5416,1. Female,17. 17,1. Married,1. 1,9. Indeterminate,White,Some College but no degree,"$20,000-$30,000",High School,RAISED RELIGIOUS, 
+5424,1. Female,16. 16,3. Widowed,3. 3,1. Conservative Protestant,Other,Less than High School,"Less than $10,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Pentecostal
+5730,0. Male,16. 16,1. Married,1. 1,2. Mainline Protestant,White,Vo-Tech/Associates Diploma/Degree,"$60,000-$70,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+5871,1. Female,14. 14,5. Separated,1. 1,8. Other religion,Black,Graduate Degree,"$50,000-$60,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+5891,1. Female,13. 13,1. Married,1. 1,1. Conservative Protestant,White,High School,"$20,000-$30,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Pentecostal
+5894,0. Male,17. 17,6. Never Married,0. 0,4. Catholic,Black,High School,"$40,000-$50,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christianity
+5916,0. Male,13. 13,1. Married,2. 2,2. Mainline Protestant,White,Some College but no degree,"$20,000-$30,000",Less than High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christana
+5949,0. Male,13. 13,6. Never Married,2. 2,4. Catholic,Black,High School,"$40,000-$50,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+6010,0. Male,15. 15,1. Married,0. 0,2. Mainline Protestant,White,Some College but no degree,"$90,000-$100,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christianity
+6073,0. Male,14. 14,1. Married,1. 1,4. Catholic,White,High School,"$70,000-$80,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+6076,1. Female,17. 17,4. Divorced,0. 0,4. Catholic,White,High School,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+6100,0. Male,17. 17,1. Married,0. 0,1. Conservative Protestant,White,Bachelors,"More than $100,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+6108,0. Male,16. 16,1. Married,0. 0,1. Conservative Protestant,White,Vo-Tech/Associates Diploma/Degree,"$40,000-$50,000",Less than High School,RAISED RELIGIOUS, 
+6127,0. Male,13. 13,1. Married,1. 1,1. Conservative Protestant,Black,Vo-Tech/Associates Diploma/Degree,,Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS, 
+6143,0. Male,14. 14,1. Married,2. 2,7. Unaffiliated,White,Some College but no degree,"More than $100,000",High School,RAISED RELIGIOUS, 
+6222,0. Male,15. 15,1. Married,0. 0,4. Catholic,Hispanic,,"$90,000-$100,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+6283,0. Male,16. 16,6. Never Married,2. 2,8. Other religion,Black,Less than High School,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Jehovahs Whitness
+6285,0. Male,15. 15,1. Married,1. 1,1. Conservative Protestant,White,Beyond Bachelors but no degree,"$60,000-$70,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christianity
+6291,0. Male,13. 13,1. Married,1. 1,7. Unaffiliated,White,Some College but no degree,"$70,000-$80,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Mormom
+6354,1. Female,16. 16,1. Married,0. 0,4. Catholic,White,Vo-Tech/Associates Diploma/Degree,"$60,000-$70,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CATHOLIC
+6355,0. Male,17. 17,1. Married,0. 0,2. Mainline Protestant,White,High School,"$40,000-$50,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christianity
+6380,0. Male,13. 13,1. Married,2. 2,2. Mainline Protestant,White,Bachelors,"$70,000-$80,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+6399,1. Female,17. 17,4. Divorced,0. 0,4. Catholic,White,,"$50,000-$60,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:presbyterian
+6454,1. Female,13. 13,5. Separated,2. 2,3. Black Protestant,Black,High School,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+6498,1. Female,15. 15,4. Divorced,0. 0,3. Black Protestant,Other,Some College but no degree,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+6565,1. Female,16. 16,1. Married,0. 0,2. Mainline Protestant,White,Bachelors,"$50,000-$60,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Lutheran
+6569,0. Male,13. 13,1. Married,3. 3,3. Black Protestant,Black,High School,"$20,000-$30,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CHRISTAIN
+6659,1. Female,14. 14,1. Married,2. 2,7. Unaffiliated,White,Some College but no degree,"$40,000-$50,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+6702,1. Female,14. 14,1. Married,0. 0,7. Unaffiliated,Hispanic,High School,"$60,000-$70,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+6731,0. Male,13. 13,1. Married,1. 1,2. Mainline Protestant,Other,Bachelors,"More than $100,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+6768,1. Female,13. 13,1. Married,2. 2,1. Conservative Protestant,White,High School,"$60,000-$70,000",Some College but no degree,RAISED RELIGIOUS, 
+6815,0. Male,15. 15,1. Married,1. 1,2. Mainline Protestant,White,Less than High School,"$40,000-$50,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+6875,0. Male,17. 17,4. Divorced,1. 1,1. Conservative Protestant,White,High School,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+6906,0. Male,14. 14,4. Divorced,0. 0,4. Catholic,Hispanic,High School,"$10,000-$20,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:cathloic
+6912,0. Male,16. 16,1. Married,0. 0,4. Catholic,White,Some College but no degree,"$90,000-$100,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+6921,1. Female,16. 16,1. Married,0. 0,2. Mainline Protestant,White,High School,"$60,000-$70,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christianty
+6941,1. Female,14. 14,4. Divorced,3. 3,2. Mainline Protestant,White,High School,"$10,000-$20,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Baptist
+7001,0. Male,17. 17,1. Married,0. 0,4. Catholic,White,High School,"$60,000-$70,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+7214,0. Male,17. 17,1. Married,0. 0,2. Mainline Protestant,White,Beyond Bachelors but no degree,,Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:One of the various branches of Catholicism
+7215,0. Male,17. 17,4. Divorced,0. 0,2. Mainline Protestant,White,Bachelors,"More than $100,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christain
+7245,1. Female,17. 17,1. Married,1. 1,2. Mainline Protestant,White,Bachelors,"$80,000-$90,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Methodist
+7264,0. Male,14. 14,1. Married,1. 1,2. Mainline Protestant,White,,,,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+7290,1. Female,13. 13,2. Living with unmarried partner,3. 3,1. Conservative Protestant,White,Some College but no degree,"$10,000-$20,000",Less than High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:pencostal
+7299,1. Female,16. 16,1. Married,1. 1,4. Catholic,White,Vo-Tech/Associates Diploma/Degree,"More than $100,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Lutheran
+7315,1. Female,15. 15,3. Widowed,0. 0,2. Mainline Protestant,Other,Graduate Degree,"$40,000-$50,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:presbyterian
+7321,0. Male,14. 14,4. Divorced,1. 1,1. Conservative Protestant,White,Some College but no degree,"$50,000-$60,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christianity
+7325,1. Female,13. 13,4. Divorced,0. 0,7. Unaffiliated,White,High School,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christianity
+7351,0. Male,15. 15,3. Widowed,0. 0,1. Conservative Protestant,White,High School,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptist
+7384,1. Female,13. 13,1. Married,1. 1,7. Unaffiliated,White,Some College but no degree,,High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptist
+7417,0. Male,14. 14,1. Married,2. 2,2. Mainline Protestant,White,Bachelors,"More than $100,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:methodist
+7493,1. Female,17. 17,5. Separated,1. 1,7. Unaffiliated,White,High School,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+7496,0. Male,13. 13,2. Living with unmarried partner,1. 1,8. Other religion,White,Some College but no degree,"$30,000-$40,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:mormon
+7572,1. Female,16. 16,1. Married,1. 1,1. Conservative Protestant,White,Vo-Tech/Associates Diploma/Degree,"$30,000-$40,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CHATHOLIC
+7745,0. Male,17. 17,1. Married,0. 0,4. Catholic,White,Bachelors,"$70,000-$80,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+7761,0. Male,15. 15,1. Married,0. 0,4. Catholic,White,Vo-Tech/Associates Diploma/Degree,"$70,000-$80,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+7973,0. Male,16. 16,1. Married,3. 3,2. Mainline Protestant,White,Graduate Degree,"More than $100,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Jewish and Christian
+7999,0. Male,14. 14,1. Married,1. 1,1. Conservative Protestant,White,Some College but no degree,"$50,000-$60,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Luthern
+8007,0. Male,13. 13,4. Divorced,1. 1,6. Mormon/LDS,,Vo-Tech/Associates Diploma/Degree,"Less than $10,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Latter Day Saints
+8348,0. Male,13. 13,2. Living with unmarried partner,2. 2,3. Black Protestant,Black,High School,"$20,000-$30,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+8352,0. Male,14. 14,1. Married,1. 1,2. Mainline Protestant,White,,,Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+8381,1. Female,16. 16,1. Married,1. 1,8. Other religion,Other,High School,"$20,000-$30,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:jewhova witness jehovah's witness
+8450,0. Male,17. 17,6. Never Married,0. 0,4. Catholic,Black,Bachelors,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:cathloic
+8475,0. Male,14. 14,1. Married,1. 1,1. Conservative Protestant,Hispanic,Graduate Degree,"$60,000-$70,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+8485,1. Female,17. 17,1. Married,1. 1,6. Mormon/LDS,White,Bachelors,,Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:raised christian
+8514,0. Male,14. 14,1. Married,4. 4,1. Conservative Protestant,Hispanic,Vo-Tech/Associates Diploma/Degree,"$30,000-$40,000",Less than High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:EPOSTALIC
+8526,0. Male,15. 15,1. Married,5. 5,8. Other religion,Black,Some College but no degree,"$20,000-$30,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Muslim
+8541,1. Female,14. 14,1. Married,0. 0,1. Conservative Protestant,Hispanic,Less than High School,"$30,000-$40,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:jewish and christian
+8693,0. Male,17. 17,4. Divorced,2. 2,1. Conservative Protestant,White,High School,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Lutheran
+9141,1. Female,16. 16,1. Married,0. 0,2. Mainline Protestant,White,Graduate Degree,"$50,000-$60,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Methodist
+9203,1. Female,14. 14,1. Married,2. 2,1. Conservative Protestant,White,Bachelors,"$60,000-$70,000",Beyond Bachelors but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:lutheran
+9240,1. Female,13. 13,1. Married,2. 2,4. Catholic,Black,Vo-Tech/Associates Diploma/Degree,"More than $100,000",,RAISED RELIGIOUS, 
+9246,0. Male,13. 13,1. Married,0. 0,4. Catholic,White,High School,"$70,000-$80,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+9256,1. Female,16. 16,1. Married,0. 0,1. Conservative Protestant,White,High School,"More than $100,000",Beyond Bachelors but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:pentecostal
+9326,1. Female,17. 17,1. Married,1. 1,4. Catholic,Hispanic,Less than High School,"$30,000-$40,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+9395,0. Male,14. 14,2. Living with unmarried partner,1. 1,3. Black Protestant,Black,Bachelors,"$80,000-$90,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+9396,0. Male,17. 17,1. Married,1. 1,8. Other religion,White,,,,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:prestent
+9523,0. Male,15. 15,2. Living with unmarried partner,0. 0,7. Unaffiliated,White,Bachelors,"$90,000-$100,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+9542,0. Male,15. 15,1. Married,2. 2,7. Unaffiliated,White,Less than High School,"$50,000-$60,000",Less than High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+9586,1. Female,17. 17,3. Widowed,0. 0,2. Mainline Protestant,White,Bachelors,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Medothist
+9688,0. Male,17. 17,1. Married,0. 0,6. Mormon/LDS,White,Beyond Bachelors but no degree,"More than $100,000",Beyond Bachelors but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Medothist
+9733,0. Male,16. 16,1. Married,1. 1,4. Catholic,White,Some College but no degree,"$50,000-$60,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic or christain
+9734,0. Male,15. 15,4. Divorced,1. 1,3. Black Protestant,Black,Some College but no degree,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptist
+9735,0. Male,16. 16,,1. 1,7. Unaffiliated,White,High School,,,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+9759,1. Female,14. 14,4. Divorced,0. 0,1. Conservative Protestant,White,High School,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+9760,1. Female,16. 16,1. Married,0. 0,1. Conservative Protestant,White,Bachelors,"$50,000-$60,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+9765,0. Male,17. 17,1. Married,1. 1,5. Jewish,White,Bachelors,"$90,000-$100,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Jewish
+9847,0. Male,17. 17,4. Divorced,2. 2,1. Conservative Protestant,White,Vo-Tech/Associates Diploma/Degree,"$10,000-$20,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Baptist
+9971,0. Male,17. 17,1. Married,1. 1,4. Catholic,White,Vo-Tech/Associates Diploma/Degree,"$40,000-$50,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+9988,0. Male,14. 14,1. Married,0. 0,1. Conservative Protestant,White,Graduate Degree,"$60,000-$70,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christianity
+9990,0. Male,16. 16,1. Married,1. 1,2. Mainline Protestant,Hispanic,Vo-Tech/Associates Diploma/Degree,"$80,000-$90,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Greek Orthodox
+10036,1. Female,13. 13,1. Married,2. 2,8. Other religion,Black,Some College but no degree,"$50,000-$60,000",High School,RAISED RELIGIOUS, 
+10109,0. Male,17. 17,1. Married,1. 1,4. Catholic,White,Bachelors,"More than $100,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Roman Catholic
+10172,0. Male,17. 17,6. Never Married,0. 0,7. Unaffiliated,Black,High School,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptist
+10180,0. Male,13. 13,1. Married,1. 1,7. Unaffiliated,White,High School,"$40,000-$50,000",Less than High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+10201,0. Male,13. 13,5. Separated,1. 1,3. Black Protestant,Black,Vo-Tech/Associates Diploma/Degree,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+10263,1. Female,14. 14,6. Never Married,3. 3,3. Black Protestant,Black,Some College but no degree,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:holliness
+10307,1. Female,15. 15,5. Separated,2. 2,4. Catholic,White,Some College but no degree,"Less than $10,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:chalthoisim
+10381,0. Male,15. 15,1. Married,3. 3,6. Mormon/LDS,White,Graduate Degree,"$60,000-$70,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:LDS (Morman)
+10413,0. Male,14. 14,4. Divorced,0. 0,1. Conservative Protestant,White,High School,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Baptist
+10448,0. Male,16. 16,1. Married,1. 1,7. Unaffiliated,White,Some College but no degree,,Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:episcopalean
+10469,1. Female,15. 15,4. Divorced,1. 1,2. Mainline Protestant,White,High School,"$60,000-$70,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+10508,0. Male,15. 15,4. Divorced,1. 1,6. Mormon/LDS,White,Some College but no degree,"$40,000-$50,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Mormon
+10542,0. Male,13. 13,4. Divorced,4. 4,1. Conservative Protestant,Other,Less than High School,"$10,000-$20,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+10569,1. Female,17. 17,1. Married,3. 3,3. Black Protestant,Black,High School,"$20,000-$30,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+10573,0. Male,17. 17,1. Married,1. 1,4. Catholic,White,Beyond Bachelors but no degree,"$80,000-$90,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+10580,0. Male,15. 15,1. Married,3. 3,3. Black Protestant,Other,Vo-Tech/Associates Diploma/Degree,"$20,000-$30,000",Less than High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:african
+10581,1. Female,15. 15,2. Living with unmarried partner,1. 1,1. Conservative Protestant,White,High School,"$20,000-$30,000",High School,RAISED RELIGIOUS, 
+10592,0. Male,17. 17,1. Married,1. 1,7. Unaffiliated,White,Vo-Tech/Associates Diploma/Degree,"$50,000-$60,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic & lutheran
+10600,0. Male,16. 16,1. Married,0. 0,1. Conservative Protestant,White,Bachelors,"$40,000-$50,000",Graduate Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Lutheran
+10621,1. Female,15. 15,4. Divorced,0. 0,3. Black Protestant,Black,Vo-Tech/Associates Diploma/Degree,"$30,000-$40,000",,RAISED RELIGIOUS, 
+10705,0. Male,16. 16,4. Divorced,0. 0,7. Unaffiliated,Other,Some College but no degree,"$40,000-$50,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+10706,0. Male,13. 13,6. Never Married,0. 0,3. Black Protestant,Black,High School,"$10,000-$20,000",,RAISED RELIGIOUS, 
+10747,0. Male,16. 16,6. Never Married,0. 0,3. Black Protestant,Black,High School,"Less than $10,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Baptist
+10756,0. Male,17. 17,1. Married,0. 0,8. Other religion,White,High School,"$40,000-$50,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christan
+10766,0. Male,17. 17,6. Never Married,0. 0,7. Unaffiliated,White,High School,,,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptist
+10768,1. Female,17. 17,5. Separated,0. 0,3. Black Protestant,Black,Some College but no degree,"Less than $10,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Baptist
+10815,0. Male,17. 17,5. Separated,6. 6,8. Other religion,White,High School,"$40,000-$50,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+10843,0. Male,13. 13,1. Married,2. 2,7. Unaffiliated,White,Some College but no degree,"$90,000-$100,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+10858,0. Male,15. 15,4. Divorced,0. 0,1. Conservative Protestant,White,Some College but no degree,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:i was raised christian
+10896,0. Male,15. 15,4. Divorced,0. 0,2. Mainline Protestant,White,High School,"$60,000-$70,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CATHOLIC
+10931,1. Female,15. 15,3. Widowed,1. 1,8. Other religion,Other,Graduate Degree,"$50,000-$60,000",,RAISED RELIGIOUS, 
+11005,1. Female,15. 15,6. Never Married,2. 2,7. Unaffiliated,Other,High School,,,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+11071,1. Female,16. 16,4. Divorced,1. 1,4. Catholic,Other,Vo-Tech/Associates Diploma/Degree,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+11083,0. Male,15. 15,4. Divorced,0. 0,2. Mainline Protestant,White,Beyond Bachelors but no degree,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christianity
+11114,0. Male,13. 13,2. Living with unmarried partner,0. 0,4. Catholic,Hispanic,Less than High School,,Less than High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Cathlic
+11232,0. Male,17. 17,4. Divorced,0. 0,1. Conservative Protestant,White,Bachelors,"$40,000-$50,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+11283,0. Male,16. 16,2. Living with unmarried partner,2. 2,1. Conservative Protestant,White,High School,"$40,000-$50,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:pencoastal
+11367,1. Female,14. 14,1. Married,0. 0,4. Catholic,Hispanic,High School,"$20,000-$30,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Cathlic
+11391,1. Female,15. 15,1. Married,2. 2,4. Catholic,Hispanic,Some College but no degree,"$60,000-$70,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+11422,1. Female,15. 15,1. Married,0. 0,2. Mainline Protestant,White,Vo-Tech/Associates Diploma/Degree,"$90,000-$100,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Roman Catholic
+11663,1. Female,16. 16,1. Married,2. 2,4. Catholic,Hispanic,Less than High School,"$20,000-$30,000",Less than High School,RAISED RELIGIOUS, 
+11832,1. Female,16. 16,1. Married,1. 1,2. Mainline Protestant,White,Vo-Tech/Associates Diploma/Degree,"More than $100,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CATHOLIC Catholic
+11867,0. Male,17. 17,1. Married,0. 0,7. Unaffiliated,White,Bachelors,"$80,000-$90,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:We used to go to a Methodist Church
+11977,0. Male,14. 14,5. Separated,1. 1,4. Catholic,Hispanic,High School,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+12065,0. Male,16. 16,1. Married,1. 1,6. Mormon/LDS,Hispanic,Vo-Tech/Associates Diploma/Degree,"$70,000-$80,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Morman
+12070,0. Male,17. 17,1. Married,3. 3,4. Catholic,Hispanic,Vo-Tech/Associates Diploma/Degree,"$10,000-$20,000",Less than High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:CHRISTIAN
+12251,0. Male,14. 14,1. Married,1. 1,8. Other religion,White,Graduate Degree,"$70,000-$80,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+12338,1. Female,13. 13,1. Married,0. 0,1. Conservative Protestant,White,High School,"$50,000-$60,000",Less than High School,RAISED RELIGIOUS, 
+12388,0. Male,15. 15,5. Separated,0. 0,3. Black Protestant,Black,Some College but no degree,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christain
+12535,1. Female,15. 15,1. Married,0. 0,7. Unaffiliated,White,,,,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:raised protestant
+12637,0. Male,15. 15,4. Divorced,0. 0,1. Conservative Protestant,White,Less than High School,"Less than $10,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+12736,0. Male,13. 13,1. Married,3. 3,2. Mainline Protestant,White,Bachelors,"$40,000-$50,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Lutheran
+12761,1. Female,17. 17,5. Separated,1. 1,1. Conservative Protestant,White,Some College but no degree,"$10,000-$20,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptise
+12800,0. Male,13. 13,2. Living with unmarried partner,0. 0,1. Conservative Protestant,White,Some College but no degree,"$70,000-$80,000",Beyond Bachelors but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Christian
+12845,1. Female,14. 14,1. Married,2. 2,4. Catholic,White,Graduate Degree,"$90,000-$100,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+12906,0. Male,13. 13,1. Married,1. 1,3. Black Protestant,Other,Vo-Tech/Associates Diploma/Degree,"$70,000-$80,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+12910,1. Female,14. 14,1. Married,2. 2,3. Black Protestant,Black,Some College but no degree,"$50,000-$60,000",Some College but no degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian
+12956,1. Female,17. 17,4. Divorced,0. 0,7. Unaffiliated,Hispanic,Some College but no degree,"$60,000-$70,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian and catholic
+13003,1. Female,13. 13,1. Married,2. 2,4. Catholic,Other,Vo-Tech/Associates Diploma/Degree,"$40,000-$50,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+13012,1. Female,13. 13,1. Married,2. 2,2. Mainline Protestant,,Vo-Tech/Associates Diploma/Degree,"$30,000-$40,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Methodist
+13065,1. Female,16. 16,1. Married,2. 2,9. Indeterminate,White,Beyond Bachelors but no degree,"$50,000-$60,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:catholic
+13101,0. Male,17. 17,1. Married,3. 3,1. Conservative Protestant,Other,High School,"$30,000-$40,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Jahovahs wittness
+13266,1. Female,17. 17,1. Married,1. 1,1. Conservative Protestant,White,Beyond Bachelors but no degree,"$10,000-$20,000",Less than High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptist
+13317,0. Male,15. 15,2. Living with unmarried partner,3. 3,1. Conservative Protestant,White,Bachelors,"$40,000-$50,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:not sure
+13444,0. Male,16. 16,1. Married,1. 1,1. Conservative Protestant,White,High School,"$20,000-$30,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Protestant
+13465,0. Male,14. 14,4. Divorced,2. 2,3. Black Protestant,Black,Vo-Tech/Associates Diploma/Degree,"$10,000-$20,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptist
+13469,1. Female,17. 17,2. Living with unmarried partner,1. 1,1. Conservative Protestant,White,Less than High School,"$30,000-$40,000",High School,RAISED RELIGIOUS,"<1:[RECORD VERBATIM]>:,issionay babtist"
+13547,0. Male,17. 17,3. Widowed,0. 0,4. Catholic,White,Less than High School,"$10,000-$20,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+13550,1. Female,16. 16,5. Separated,2. 2,2. Mainline Protestant,White,Vo-Tech/Associates Diploma/Degree,"$10,000-$20,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:lutheran
+13657,1. Female,14. 14,5. Separated,1. 1,4. Catholic,Other,Some College but no degree,"$40,000-$50,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+13679,0. Male,17. 17,3. Widowed,0. 0,4. Catholic,White,Less than High School,"$10,000-$20,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+13686,0. Male,17. 17,1. Married,2. 2,4. Catholic,Other,Some College but no degree,"$90,000-$100,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic/Roman
+13705,1. Female,17. 17,1. Married,1. 1,2. Mainline Protestant,White,,"More than $100,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:presbyterian
+13714,0. Male,15. 15,4. Divorced,0. 0,1. Conservative Protestant,White,Some College but no degree,"$20,000-$30,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:pentecostal
+13835,1. Female,16. 16,1. Married,0. 0,1. Conservative Protestant,White,Some College but no degree,"$50,000-$60,000",Vo-Tech/Associates Diploma/Degree,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptist
+13837,1. Female,14. 14,2. Living with unmarried partner,0. 0,3. Black Protestant,Other,Bachelors,"$30,000-$40,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Pentecostal/Muslim
+13887,0. Male,16. 16,4. Divorced,0. 0,7. Unaffiliated,White,Vo-Tech/Associates Diploma/Degree,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Methodist
+13966,1. Female,13. 13,1. Married,2. 2,1. Conservative Protestant,White,Some College but no degree,"$30,000-$40,000",High School,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:christian or baptist
+13981,0. Male,15. 15,1. Married,1. 1,4. Catholic,Hispanic,Graduate Degree,"More than $100,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:Catholic
+14072,1. Female,17. 17,3. Widowed,0. 0,4. Catholic,White,Some College but no degree,"$30,000-$40,000",,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:baptist
+14105,1. Female,13. 13,1. Married,2. 2,4. Catholic,White,High School,"$60,000-$70,000",Bachelors,RAISED RELIGIOUS,<1:[RECORD VERBATIM]>:chatholic
